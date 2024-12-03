@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 gcr.io/k8s-minikube/kicbase:v0.0.45
 kindest/node:v1.31.2
+kindest/kindnetd:v20241108-5c6d2daf
