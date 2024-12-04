@@ -9,3 +9,4 @@ kindest/node:v1.31.2
 kindest/kindnetd:v20241108-5c6d2daf
 kindest/kindnetd:v20240813-c6f155d6
 selectdb/doris.k8s-operator:latest
+selectdb/alpine:latest
